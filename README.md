@@ -1,6 +1,6 @@
 # Maru Footwear Sales Dashboard
 
-![Maru Footwear Dashboard](dashboard1.png)
+![Maru Footwear Dashboard](dashboard.png)
 
 🔗 **Live Dashboard:**  
 https://datastudio.google.com/u/0/reporting/fd171165-03d3-4a3c-a23b-cf18e927c845/page/qrO2F?s=uNV39rhAGEk
